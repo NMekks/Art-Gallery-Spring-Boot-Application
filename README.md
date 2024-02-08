@@ -7,14 +7,14 @@ The application features the backend portion of the application which deals with
 This Spring Boot Application is connected to a MySQL database where the information of the art gallery is stored.
 
 ## ABout the Program
-**Entities**: Artist Entity, Artwork Entity, Contact Entity
-**Repositories**: Artist Repository, Artwork Repository, Contact Repository
-**Controllers**: Artist Controller, Artwork Controller, Contact Controller
+- **Entities**: Artist Entity, Artwork Entity, Contact Entity
+- **Repositories**: Artist Repository, Artwork Repository, Contact Repository
+- **Controllers**: Artist Controller, Artwork Controller, Contact Controller
 
 ## Technologies used
--Java Programming Language
--Spring Boot Framework
--MySQL Matabase Management System
--ReqBin API Testing Tool (any api testing tool is ok)
+- Java Programming Language
+- Spring Boot Framework
+- MySQL Matabase Management System
+- ReqBin API Testing Tool (any api testing tool is ok)
 
 **ATTENTION**: To make things visibly easier for the user, the program was made to print out the results on a web browser in string format. However, the code itself contains the same functions that would print the result in json format.
